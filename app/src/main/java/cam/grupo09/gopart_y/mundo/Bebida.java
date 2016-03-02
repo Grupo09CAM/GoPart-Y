@@ -11,14 +11,7 @@ public class Bebida
      * Nombre de la bebida
      */
     private String nombre;
-    private String prueba;
-    private String prueba1;
-    private String prueba2;
-    private String nuevo;
-    private String nuevo2;
-    private String test;
-    private String test2;
-    private String test3;
+
     /**
      * Tipo de bebida
      */
