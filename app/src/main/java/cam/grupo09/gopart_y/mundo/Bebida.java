@@ -11,7 +11,7 @@ public class Bebida
      * Nombre de la bebida
      */
     private String nombre;
-
+    private String prueba;
     /**
      * Tipo de bebida
      */
