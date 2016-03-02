@@ -39,6 +39,7 @@ public class Evento
     /**
      * Lugares propuestos
      */
+    private ArrayList<OpcionPropuesta<Establecimiento>> establecimientosPropuestos;
 
 
 
