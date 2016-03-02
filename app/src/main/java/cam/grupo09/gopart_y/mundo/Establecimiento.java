@@ -8,7 +8,9 @@ import java.util.ArrayList;
  */
 public class Establecimiento
 {
-
+    private String test;
+    private String test2;
+    private String test3;
     /**
      * Nombre del establecimiento
      */
