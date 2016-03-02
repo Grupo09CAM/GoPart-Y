@@ -16,6 +16,8 @@ public class Bebida
     private String prueba2;
     private String nuevo;
     private String nuevo2;
+    private String test;
+    private String test2;
     /**
      * Tipo de bebida
      */
