@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">GoPart-Y</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_invitaciones">Invitaciones</string>
+    <string name="title_activity_fehca">Selecciona fecha</string>
+    <string name="title_activity_gustos">Gustos</string>
+    <string name="title_activity_evento_proximo">Evento Proximo</string>
+    <string name="title_activity_evento_actual">Evento en curso</string>
+    <string name="title_activity_invitacion_pendiente">Invitaciones pendientes</string>
+    <string name="title_activity_evaluar_invitacion">Evaluar invitacion</string>
+    <string name="title_activity_menu">GoPart-Y</string>
 </resources>
