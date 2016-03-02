@@ -6,6 +6,7 @@ package cam.grupo09.gopart_y.mundo;
  */
 public enum EstadoInvitacion
 {
+
     /*
         Sin enviar: Por alguna razón no se ha realizado un envío de la invitación. A la espera de enviarse
         Enviado: Se envió la invitación pero no se ha recibido respuesta
